@@ -1,6 +1,6 @@
  <img align='center' src="https://media.discordapp.net/attachments/922857332298367016/1259029771128672286/yande.png?ex=668a3259&is=6688e0d9&hm=ddc71c7dc2ecf62f737fefb88c59659413d7af81bf4a76c474f577849c5deb03&=&format=webp&quality=lossless&width=687&height=322">
 
-# 💫 About Me:
+# 🐧 About Me:
 😺 A boy likes cats and foxes 🦊 <br>🎮 I love video games<br>👋 friendly, sociable, and always open with everyone<br>💡Good self-learning and teamwork skills<br>🔎 I have loved the Android operating system since I was a child<br>💻 I am currently improving and learning more about Jetpack Compose and related topics
 ```kt
 data class MySelf(
