@@ -1,4 +1,4 @@
- <img align='center' src="https://avatars.githubusercontent.com/u/141697796?v=4" width="300">
+ <img align='center' src="https://cdn.discordapp.com/attachments/922857332298367016/1259029026173882398/yande.png?ex=668a31a7&is=6688e027&hm=0c5da2566d42586cb6e47865375673349216ac957ab25cef6077802a94671c13&" width="300">
 
 # 💫 About Me:
 😺 A boy likes cats and foxes 🦊 <br>🎮 I love video games<br>👋 friendly, sociable, and always open with everyone<br>💡Good self-learning and teamwork skills<br>🔎 I have loved the Android operating system since I was a child<br>💻 I am currently improving and learning more about Jetpack Compose and related topics
