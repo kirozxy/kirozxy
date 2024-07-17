@@ -1,4 +1,4 @@
- <img align='center' src="https://media.discordapp.net/attachments/922857332298367016/1259029771128672286/yande.png?ex=668c2c99&is=668adb19&hm=a12524f5922175fb3fc8597b623d84d3ba5042d12ef3ea702a8bb49e76359005&=&format=webp&quality=lossless&width=1368&height=641">
+ <img align='center' src="https://cdn.discordapp.com/attachments/922857332298367016/1259029771128672286/yande.png?ex=6698b2d9&is=66976159&hm=c91ae747a0a72a628d0f318e61985a0fd3593ca7f8262fc21f781b1784f6eeaf&">
 
 # 🐧 About Me:
 😺 A boy likes cats and foxes 🦊 <br>🎮 I love video games<br>👋 friendly, sociable, and always open with everyone<br>💡Good self-learning and teamwork skills<br>🔎 I have loved the Android operating system since I was a child<br>💻 I am currently improving and learning more about Jetpack Compose and related topics
