@@ -15,7 +15,6 @@ data class MySkillAndKnowledge(
     var knowledge: List<String> = listOf("Jetpack Compose", "Firebase", "Retrofit", "..."),
     var mySkills: List<String> = listOf("Good self-learning and teamwork skills", "English communication skills are at an intermediate level")
 )
-//Why var: Because I can improve myself and learn more every day in the future.
 
 ```
 # 💻 Tech Stack:
