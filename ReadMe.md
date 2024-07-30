@@ -1,4 +1,4 @@
- <img align='center' src="https://drive.google.com/file/d/1AJAXxtrwCpIlfAnXsbrYgw5-Yp0VMacY/view?usp=drive_link">
+ <img align='center' src="https://drive.google.com/file/d/1AJAXxtrwCpIlfAnXsbrYgw5-Yp0VMacY/view">
 
 # 🐧 About Me:
 😺 A boy likes cats and foxes 🦊 <br>🎮 I love video games<br>👋 friendly, sociable, and always open with everyone<br>💡Good self-learning and teamwork skills<br>🔎 I have loved the Android operating system since I was a child<br>💻 I am currently improving and learning more about Jetpack Compose and related topics
