@@ -21,7 +21,7 @@
 
 ```kotlin
 class Kiro : JuniorAndroidDeveloper {
-    val name = "Nhat Minh (Kiro)"
+    val name = "Kiro"
     val role = "Junior Android Developer"
     val yearBorn = 2002
     val nationality = "Vietnamese"
