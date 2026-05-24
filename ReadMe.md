@@ -1,12 +1,4 @@
 <div align="center">
-  <!-- Dynamic profile views badge -->
-  <p align="right">
-    <a href="https://github.com/kirozxy">
-      <img src="https://komarev.com/normal-badge/?username=kirozxy&color=7F52FF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-    </a>
-  </p>
-
-  <!-- Header Banner -->
   <img src="https://i.imgur.com/A0hhvH7.jpg" alt="Header Banner" width="100%" style="border-radius: 8px;" />
   
   <br/>
@@ -133,7 +125,12 @@ class Kiro : JuniorAndroidDeveloper {
   </ul>
 </details>
 
----
+<p align="center">
+  <a href="https://github.com/kirozxy">
+    <img src="https://i.pinimg.com/originals/99/cd/09/99cd0925c516b5d0a740dffd03c3e0df.gif" alt="Profile Views" />
+  </a>
+</p>
+
 
 ## 🌐 Connect with Me:
 
