@@ -1,4 +1,4 @@
- <img align='center' src="https://i.imgur.com/Lc7weEX.png">
+ <img align='center' src="https://i.imgur.com/A0hhvH7.jpg">
 
 # 🐧 About Me, an Android Dev:
 
