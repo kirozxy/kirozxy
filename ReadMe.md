@@ -1,181 +1,105 @@
-<div align="center">
-  <img src="https://i.imgur.com/AiJx2xt.png" alt="Header Banner" width="100%" style="border-radius: 8px;" />
-  
-  <br/><br/>
-  
-  # Hi there, I'm Kiro! 👋
-  
-  ### 📱 Junior Android Developer | Tech Enthusiast | Open-Source Lover
-  
-  *Building smooth, scalable, and premium mobile experiences on Android.*
-  
-  <br/>
-
-  <!-- Typing SVG text typing animation -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Writing+clean+and+modern+Kotlin;Architecting+with+Jetpack+Compose;Exploring+the+depths+of+Android;Crafting+responsive+mobile+UI" alt="Typing SVG" />
+<!-- Custom, repository-owned SVG layouts. Rebuild with tools/generate_assets.py. -->
+<p align="center">
+  <a href="https://kirozxy.dev">
+    <picture>
+      <source media="(max-width: 600px)" srcset="./assets/profile-header-mobile.svg" />
+      <img src="./assets/profile-header.svg" alt="Kiro — Android developer. Kotlin, Compose, and a soft spot for retro." width="1000" />
+    </picture>
   </a>
+</p>
 
-  <br/><br/>
+<p align="center">
+  <a href="https://kirozxy.dev"><img src="./assets/link-website.svg" alt="Visit my website" width="124" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.kirozxy.emulator"><img src="./assets/link-play.svg" alt="Get kiroEmu on Google Play" width="124" /></a>
+  <a href="mailto:contact@kirozxy.dev"><img src="./assets/link-email.svg" alt="Email Kiro" width="124" /></a>
+  <a href="https://ko-fi.com/kirozxy"><img src="./assets/link-coffee.svg" alt="Support Kiro on Ko-fi" width="124" /></a>
+</p>
 
-  <p align="center">
-    <a href="https://github.com/kirozxy">
-      <img src="https://img.shields.io/github/followers/kirozxy?label=Followers&style=for-the-badge&color=00B4D8&logo=github" alt="GitHub Followers" />
-    </a>
-    <a href="mailto:hanhatminh366@gmail.com">
-      <img src="https://img.shields.io/badge/Location-Vietnam-00B4D8?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-    </a>
-  </p>
-</div>
+### Behind the code
 
----
+I'm **Kiro**, a junior Android developer from **Vietnam**. I build apps, work with native code, and make time for retro games.
 
-## 🐧 About Me
+- **In the editor:** Kotlin, Jetpack Compose, and C/C++ through the Android NDK.
+- **On my desk:** [kiroEmu](https://kirozxy.dev/kiroemu.html) and [kiroAds](https://github.com/kirozxy/kiroAds).
+- **After hours:** games, anime, and a lofi playlist. [Want to play something?](https://kirozxy.dev/#arcade)
+
+### Currently building
+
+<p align="center">
+  <a href="https://kirozxy.dev/kiroemu.html"><img src="./assets/project-kiroemu.svg" alt="kiroEmu — Android emulator frontend with a game library, customizable controls, shaders, and save states. Kotlin, Jetpack Compose, and C++. Explore the app." width="390" /></a>
+  <a href="https://github.com/kirozxy/kiroAds"><img src="./assets/project-kiroads.svg" alt="kiroAds — Open source Android SDK for AdMob, Play Billing, Firebase Analytics, and UMP consent. Explore the source." width="390" /></a>
+</p>
+
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.kirozxy.emulator">Google Play</a>
+  &nbsp; · &nbsp;
+  <a href="https://kirozxy.dev/kiroemu.html#changelog">Release notes</a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/kirozxy/kiroAds">kiroAds source</a>
+</p>
+
+### My toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,java,cpp,androidstudio,gradle,firebase,git,githubactions,figma&amp;theme=dark&amp;perline=9" alt="Kotlin, Java, C++, Android Studio, Gradle, Firebase, Git, GitHub Actions, and Figma" width="468" />
+</p>
+
+<p align="center">Jetpack Compose · Android NDK / JNI · Coroutines &amp; Flow</p>
+
+<details>
+<summary>Architecture, libraries &amp; workflow</summary>
+
+- **Architecture:** MVVM, MVI, Hilt / Dagger.
+- **Async:** Coroutines, StateFlow, SharedFlow.
+- **Storage & networking:** Room, Retrofit.
+- **Firebase:** Authentication, Cloud Firestore, Cloud Messaging.
+- **Workflow:** Git, Gradle, GitHub Actions, Figma.
+
+</details>
+
+### On GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kirozxy&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;bg_color=111722&amp;title_color=90a9ff&amp;icon_color=90a9ff&amp;text_color=a9b5cb" alt="Kiro's GitHub statistics" width="440" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kirozxy&amp;layout=compact&amp;hide_border=true&amp;bg_color=111722&amp;title_color=90a9ff&amp;text_color=a9b5cb" alt="Languages used across Kiro's repositories, including C and C++" width="330" />
+</p>
+
+<details>
+<summary>Contribution streak</summary>
+
+<br />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kirozxy&amp;hide_border=true&amp;background=111722&amp;ring=90a9ff&amp;fire=90a9ff&amp;currStreakLabel=90a9ff&amp;currStreakNum=f3f3ed&amp;sideNums=f3f3ed&amp;sideLabels=f3f3ed&amp;dates=a9b5cb" alt="Kiro's GitHub contribution streak" width="440" />
+</p>
+
+</details>
+
+<details>
+<summary>A little more about me</summary>
+
+I like readable, testable code, learning more about Android, and sharing ideas through teamwork and code reviews. Outside development: cats and foxes, football, and a good book.
 
 ```kotlin
-class Kiro : JuniorAndroidDeveloper {
+object Kiro {
     val name = "Kiro"
     val role = "Junior Android Developer"
-    val yearBorn = 2002
+    val born = 2002
     val nationality = "Vietnamese"
-    val pronouns = listOf("He", "Him")
-    
-    override fun getHobbies() = listOf(
-        "Gaming 🎮", 
-        "Cats & Foxes 🐱🦊", 
-        "Football ⚽", 
-        "Reading Books 📚"
-    )
-    
-    override fun getPhilosophies() = listOf(
-        "Write clean, self-documenting, and testable code.",
-        "Never stop learning and keeping up with Android advancements.",
-        "Embrace teamwork, code reviews, and open communication."
+    val pronouns = listOf("he", "him")
+
+    val interests = listOf(
+        "Retro games", "Anime", "Lofi music",
+        "Cats & foxes", "Football", "Books"
     )
 }
 ```
 
----
+Personal email: [hanhatminh366@gmail.com](mailto:hanhatminh366@gmail.com).
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kirozxy&show_icons=true&theme=tokyonight&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=9ae0ff" alt="Kiro's GitHub Stats" height="175"/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kirozxy&layout=compact&theme=tokyonight&hide_border=true&title_color=00b4d8&text_color=9ae0ff" alt="Top Languages" height="175"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kirozxy&theme=tokyonight&hide_border=true&background=00000000&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8" alt="GitHub Streak" />
-</div>
-
----
-
-## 🛠️ Tech Stack & Tools
-
-<details open>
-  <summary><b>📱 Core Language & Frameworks</b></summary>
-  <br/>
-  <p>
-    <a href="https://kotlinlang.org" target="_blank">
-      <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-    </a>
-    <a href="https://www.java.com" target="_blank">
-      <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-    </a>
-    <a href="https://developer.android.com" target="_blank">
-      <img src="https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-    </a>
-    <a href="https://developer.android.com/jetpack/compose" target="_blank">
-      <img src="https://img.shields.io/badge/Jetpack_Compose-%234285F4.svg?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
-    </a>
-  </p>
-  <ul>
-    <li><b>Kotlin & Java</b>: Developing highly robust, null-safe, and object-oriented mobile architectures.</li>
-    <li><b>Android & Jetpack Compose</b>: Building reactive, declarative user interfaces with modern UI standards.</li>
-  </ul>
 </details>
 
-<details open>
-  <summary><b>📚 Architecture & Libraries</b></summary>
-  <br/>
-  <p>
-    <a href="https://developer.android.com/topic/libraries/architecture" target="_blank">
-      <img src="https://img.shields.io/badge/MVVM_/_MVI-000000?style=for-the-badge&logo=architecture&logoColor=white" alt="Architecture" />
-    </a>
-    <a href="https://kotlinlang.org/docs/coroutines-overview.html" target="_blank">
-      <img src="https://img.shields.io/badge/Coroutines_&_Flow-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Coroutines & Flow" />
-    </a>
-    <a href="https://developer.android.com/training/data-storage/room" target="_blank">
-      <img src="https://img.shields.io/badge/Room_Database-3DDC84?style=for-the-badge&logo=sqlite&logoColor=white" alt="Room DB" />
-    </a>
-    <a href="https://square.github.io/retrofit/" target="_blank">
-      <img src="https://img.shields.io/badge/Retrofit_REST_API-4285F4?style=for-the-badge&logo=retrofit&logoColor=white" alt="Retrofit" />
-    </a>
-    <a href="https://developer.android.com/training/dependency-injection/hilt-android" target="_blank">
-      <img src="https://img.shields.io/badge/Hilt_/_Dagger2-FF6F00?style=for-the-badge&logo=dependency-injection&logoColor=white" alt="Dependency Injection" />
-    </a>
-  </p>
-  <ul>
-    <li><b>Architecture</b>: MVVM and MVI design patterns for clear separation of concerns.</li>
-    <li><b>Async Handling</b>: Coroutines & StateFlow/SharedFlow for asynchronous data streaming.</li>
-    <li><b>Storage & Network</b>: Room for local offline caching, and Retrofit for REST API networking.</li>
-  </ul>
-</details>
+### Let's connect
 
-<details open>
-  <summary><b>🔧 Databases, Tools & CI/CD</b></summary>
-  <br/>
-  <p>
-    <a href="https://git-scm.com" target="_blank">
-      <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    </a>
-    <a href="https://github.com" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <a href="https://firebase.google.com" target="_blank">
-      <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-    </a>
-    <a href="https://github.com/features/actions" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-    </a>
-    <a href="https://gradle.org" target="_blank">
-      <img src="https://img.shields.io/badge/Gradle-%2302303A.svg?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle" />
-    </a>
-    <a href="https://www.figma.com" target="_blank">
-      <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-    </a>
-  </p>
-  <ul>
-    <li><b>Tools & CI/CD</b>: Automation pipelines via GitHub Actions, Gradle build scripting, and UI prototyping with Figma.</li>
-    <li><b>Cloud Databases</b>: Firebase Authentication, Cloud Firestore, and Cloud Messaging integration.</li>
-  </ul>
-</details>
+[Email](mailto:contact@kirozxy.dev) &nbsp; / &nbsp; [Facebook](https://facebook.com/kirozxy/) &nbsp; / &nbsp; [Instagram](https://instagram.com/kiro.zxy) &nbsp; / &nbsp; [Steam](https://steamcommunity.com/id/kirozxy/)
 
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://facebook.com/kirozxy/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://instagram.com/kiro.zxy" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://steamcommunity.com/id/kirozxy/" target="_blank">
-    <img src="https://img.shields.io/badge/Steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
-  </a>
-  <a href="mailto:contact@kirozxy.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
-<br/>
-
-<p align="center">
-  <a href="https://github.com/kirozxy">
-    <img src="https://i.pinimg.com/originals/99/cd/09/99cd0925c516b5d0a740dffd03c3e0df.gif" alt="Profile Animation" width="400" />
-  </a>
-</p>
+<p align="center"><img src="./assets/footer.svg" alt="Code. Play. Repeat." width="1000" /></p>

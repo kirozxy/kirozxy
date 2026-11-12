@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="620" height="312" viewBox="0 0 620 312" role="img" aria-label="kiroEmu — A home for your retro games. Library, controls, shaders &amp; save states. KOTLIN / COMPOSE / C++. Explore the app">
+<title>kiroEmu — A home for your retro games. Library, controls, shaders &amp; save states. KOTLIN / COMPOSE / C++. Explore the app</title>
+
+<g transform="translate(10 10)">
+<rect x="1" y="1" width="598" height="290" rx="14" fill="#111722" stroke="#2b384e"/>
+<path d="M1 58h598" stroke="#2b384e"/>
+<text x="28" y="36" font-family="'Cascadia Code',Consolas,monospace" font-size="13" letter-spacing="1.3" fill="#90a9ff">01 / ANDROID APP</text>
+<g transform="translate(528 87)" fill="none" stroke="#90a9ff" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="M6 7h22c5 0 8 19 5 21s-8-6-9-6H10c-1 0-6 8-9 6S1 7 6 7Z"/><path d="M8 11v9m-4-4h8m12-4h.1m5 6h.1"/></g>
+<text x="27" y="113" font-family="'Segoe UI',Arial,sans-serif" font-size="42" font-weight="600" letter-spacing="-1.8" fill="#f3f3ed">kiroEmu</text>
+<text x="29" y="155" font-family="'Segoe UI',Arial,sans-serif" font-size="21" fill="#a9b5cb">A home for your retro games.</text>
+<text x="29" y="185" font-family="'Segoe UI',Arial,sans-serif" font-size="21" fill="#a9b5cb">Library, controls, shaders &amp; save states.</text>
+<text x="29" y="222" font-family="'Cascadia Code',Consolas,monospace" font-size="14" fill="#90a9ff">KOTLIN / COMPOSE / C++</text>
+<path d="M29 245h542" stroke="#2b384e"/>
+<text x="29" y="273" font-family="'Segoe UI',Arial,sans-serif" font-size="16" fill="#f3f3ed">Explore the app</text>
+<path d="M545 265h24m-8-8 8 8-8 8" fill="none" stroke="#90a9ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+
+</svg>

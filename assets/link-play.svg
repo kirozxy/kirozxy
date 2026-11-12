@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="154" height="42" viewBox="0 0 154 42" role="img" aria-label="kiroEmu">
+<title>kiroEmu</title>
+
+<rect x="1" y="1" width="152" height="40" rx="7" fill="#111722" stroke="#3a4b68"/>
+<g transform="translate(15 10) scale(.8)" fill="none" stroke="#90a9ff" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="m5 3 18 10L5 23Z"/></g>
+<text x="48" y="26" font-family="'Segoe UI',Arial,sans-serif" font-size="13" font-weight="500" fill="#f3f3ed">kiroEmu</text>
+<path d="m130 16 6 5-6 5" fill="none" stroke="#7f91b3" stroke-width="1.5"/>
+
+</svg>
