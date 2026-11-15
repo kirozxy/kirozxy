@@ -10,7 +10,7 @@ import base64
 
 ROOT = Path(__file__).resolve().parents[1]
 ASSETS = ROOT / "assets"
-ART = "data:image/png;base64," + base64.b64encode((ASSETS / "kiro-banner.png").read_bytes()).decode("ascii")
+ART = "data:image/gif;base64," + base64.b64encode((ASSETS / "kiro-banner.gif").read_bytes()).decode("ascii")
 FONT = "'Segoe UI',Arial,sans-serif"
 MONO = "'Cascadia Code',Consolas,monospace"
 BG, PANEL, LINE = "#0b0e14", "#111722", "#2b384e"
