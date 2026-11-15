@@ -2,8 +2,8 @@
 <p align="center">
   <a href="https://kirozxy.dev">
     <picture>
-      <source media="(max-width: 600px)" srcset="./assets/profile-header-mobile.svg" />
-      <img src="./assets/profile-header.svg" alt="Kiro — Android developer. Kotlin, Compose, and a soft spot for retro." width="1000" />
+      <source media="(max-width: 600px)" srcset="./assets/profile-header-mobile.svg?v=kori-gif-39baa07" />
+      <img src="./assets/profile-header.svg?v=kori-gif-39baa07" alt="Kiro — Android developer. Kotlin, Compose, and a soft spot for retro." width="1000" />
     </picture>
   </a>
 </p>
