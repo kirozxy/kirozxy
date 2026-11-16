@@ -60,8 +60,8 @@ I'm **Kiro**, a junior Android developer from **Vietnam**. I build apps, work wi
 ### On GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kirozxy&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;bg_color=111722&amp;title_color=90a9ff&amp;icon_color=90a9ff&amp;text_color=a9b5cb" alt="Kiro's GitHub statistics" width="440" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kirozxy&amp;layout=compact&amp;hide_border=true&amp;bg_color=111722&amp;title_color=90a9ff&amp;text_color=a9b5cb" alt="Languages used across Kiro's repositories, including C and C++" width="330" />
+  <img src="./assets/github-stats.svg" alt="Kiro's GitHub statistics" width="440" />
+  <img src="./assets/github-languages.svg" alt="Languages used across Kiro's repositories, including C and C++" width="330" />
 </p>
 
 <details>
