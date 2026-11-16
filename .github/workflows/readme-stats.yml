@@ -1,0 +1,69 @@
+name: Update README statistics
+
+on:
+  schedule:
+    # 07:00 Vietnam time, every day.
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/readme-stats.yml
+
+concurrency:
+  group: readme-statistics
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write
+    steps:
+      - name: Check out profile
+        uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+
+      - name: Generate GitHub statistics
+        uses: stats-organization/github-readme-stats-action@96a939a7398a290e0a9f84b2b31d21d0cf67d483 # v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_rank=true&hide_border=true&bg_color=111722&title_color=90a9ff&icon_color=90a9ff&text_color=a9b5cb
+          path: assets/github-stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: 'true'
+
+      - name: Generate language statistics
+        uses: stats-organization/github-readme-stats-action@96a939a7398a290e0a9f84b2b31d21d0cf67d483 # v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&hide_border=true&bg_color=111722&title_color=90a9ff&text_color=a9b5cb
+          path: assets/github-languages.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: 'true'
+
+      - name: Validate SVG cards
+        run: |
+          python3 - <<'PY'
+          import xml.etree.ElementTree as ET
+
+          for path in ('assets/github-stats.svg', 'assets/github-languages.svg'):
+              root = ET.parse(path).getroot()
+              if root.tag != '{http://www.w3.org/2000/svg}svg':
+                  raise ValueError(f'Invalid SVG: {path}')
+              if 'Something went wrong' in ''.join(root.itertext()):
+                  raise ValueError(f'Error card: {path}')
+          PY
+
+      - name: Commit updated cards
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/github-stats.svg assets/github-languages.svg
+          if git diff --cached --quiet; then
+            echo 'Statistics are unchanged.'
+            exit 0
+          fi
+          git commit -m 'chore: update README statistics'
+          git pull --rebase origin main
+          git push origin HEAD:main
